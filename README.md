@@ -1,4 +1,4 @@
-# SQL_NewYorkRestaurants
+# SQL_WritingBasicQueries
 This repo is intended to represent my SQL skill using projects provided by Codecademy.
 
 We have put together a table of restaurants called nomnom and we need your help to answer some questions. Use the SQL commands you just learned and find the best dinner spots in the city.
